@@ -73,7 +73,8 @@
       "eduction": "MBBS BHMD SDDL from Ukrain",
       "doctorfee": "400",
       "address": "Colony No.4 New Patna",
-      "appointment": 2
+      "appointment": 2,
+      "rating":3.5
     },
     {
       "id": 2,
@@ -81,7 +82,8 @@
       "eduction": "MBBS BHMD SDDL from Turki",
       "doctorfee": "600",
       "address": "Colony No.5 New Delhi",
-      "appointment": 0
+      "appointment": 0,
+      "rating":4.5
     },
     {
       "id": 3,
@@ -89,7 +91,8 @@
       "eduction": "MBBS BHMD SDDL from Japan",
       "doctorfee": "500",
       "address": "Colony No.8 Mumbai",
-      "appointment": 10
+      "appointment": 10,
+      "rating":3.5
     },
     {
       "id": 4,
@@ -97,7 +100,8 @@
       "eduction": "MBBS BHMD SDDL from London",
       "doctorfee": "700",
       "address": "Colony No.7 Kolkata",
-      "appointment": 1
+      "appointment": 1,
+      "rating":2.5
     },
     {
       "id": 5,
@@ -105,7 +109,8 @@
       "eduction": "MBBS BHMD SDDL from Mumbai",
       "doctorfee": "900",
       "address": "Colony No.9 Chandigarh",
-      "appointment": 0
+      "appointment": 0,
+      "rating":4.75
     },
     {
       "id": 6,
@@ -113,7 +118,8 @@
       "eduction": "SBTC BHMD SDDL from Mumbai",
       "doctorfee": "500",
       "address": "Colony No.9 Sonpur",
-      "appointment": 10
+      "appointment": 10,
+      "rating":4
     },
     {
       "id": 7,
@@ -121,7 +127,8 @@
       "eduction": "MBBS BHMD SDDL from Thane",
       "doctorfee": "800",
       "address": "Colony No.9 Pune",
-      "appointment": 2
+      "appointment": 2,
+      "rating":4.5
     },
     {
       "id": 8,
@@ -129,7 +136,44 @@
       "eduction": "MBBS BHMD SDDL from Kota",
       "doctorfee": "900",
       "address": "Colony No.9 Patna",
-      "appointment": 0
+      "appointment": 0,
+      "rating":3.5
+    },
+    {
+      "id": 9,
+      "doctorname": "Dr Bikaji Rotra",
+      "eduction": "MBBS BHMD KDDL from Jaipur",
+      "doctorfee": "750",
+      "address": "Colony No.9 India",
+      "appointment": 5,
+      "rating":4
+    },
+    {
+      "id": 10,
+      "doctorname": "Dr Sahib Jani",
+      "eduction": "MBBS KLKL SDDL from Patiala",
+      "doctorfee": "800",
+      "address": "Colony No.7 Kota",
+      "appointment": 4,
+      "rating":1.5
+    },
+    {
+      "id": 11,
+      "doctorname": "Dr Hussain ",
+      "eduction": "MBBS BHMD KLKL from Goa",
+      "doctorfee": "900",
+      "address": "Colony No.1 Goa",
+      "appointment": 0,
+      "rating":1
+    },
+    {
+      "id": 12,
+      "doctorname": "Dr Gulati Juni",
+      "eduction": "MBBS BHMD SDDL from teala",
+      "doctorfee": "900",
+      "address": "Colony No.8 Teala",
+      "appointment": 0,
+      "rating":2.5
     }
   ],
   "medicine": [
