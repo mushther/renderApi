@@ -11,6 +11,7 @@
       "token": "HC1673207153427",
       "doctorname": "Dr Hasmat Yni",
       "doctorfee": "700",
+      "doctorUserId": "ali85",
       "userId": "hony65"
     },
     {
@@ -24,6 +25,7 @@
       "token": "HC1673207153417",
       "doctorname": "Dr Lalu Baba",
       "doctorfee": "400",
+      "doctorUserId": "yani84",
       "userId": "Tony65"
     },
     {
@@ -37,6 +39,7 @@
       "token": "HC1673207153421",
       "doctorname": "Dr Lalu Baba",
       "doctorfee": "400",
+      "doctorUserId": "aryan83",
       "userId": "hony65"
     },
     {
@@ -50,6 +53,7 @@
       "token": "HC1673207153415",
       "doctorname": "Dr Jonh Rana",
       "doctorfee": "800",
+      "doctorUserId": "lalu81",
       "userId": "Tony65"
     },
     {
@@ -63,12 +67,14 @@
       "token": "HC1673207153407",
       "doctorname": "Dr Jonh Rana",
       "doctorfee": "800",
+      "doctorUserId": "riya82",
       "userId": "Tony65"
     }
   ],
   "doctor": [
     {
       "id": 1,
+      "doctorUserId": "lalu81",
       "doctorname": "Dr Lalu Baba",
       "eduction": "MBBS BHMD SDDL from Ukrain",
       "doctorfee": "400",
@@ -98,6 +104,7 @@
     },
     {
       "id": 2,
+      "doctorUserId": "riya82",
       "doctorname": "Dr Riya Burman",
       "eduction": "MBBS BHMD SDDL from Turki",
       "doctorfee": "600",
@@ -127,6 +134,7 @@
     },
     {
       "id": 3,
+      "doctorUserId": "aryan83",
       "doctorname": "Dr Aryan Kumar",
       "eduction": "MBBS BHMD SDDL from Japan",
       "doctorfee": "500",
@@ -156,6 +164,7 @@
     },
     {
       "id": 4,
+      "doctorUserId": "yani84",
       "doctorname": "Dr Hasmat Yni",
       "eduction": "MBBS BHMD SDDL from London",
       "doctorfee": "700",
@@ -185,6 +194,7 @@
     },
     {
       "id": 5,
+      "doctorUserId": "ali85",
       "doctorname": "Dr Hussain Ali",
       "eduction": "MBBS BHMD SDDL from Mumbai",
       "doctorfee": "900",
@@ -214,6 +224,7 @@
     },
     {
       "id": 6,
+      "doctorUserId": "annad86",
       "doctorname": "Dr Annad Singh",
       "eduction": "SBTC BHMD SDDL from Mumbai",
       "doctorfee": "500",
@@ -243,6 +254,7 @@
     },
     {
       "id": 7,
+      "doctorUserId": "jonh87",
       "doctorname": "Dr Jonh Rana",
       "eduction": "MBBS BHMD SDDL from Thane",
       "doctorfee": "800",
@@ -272,6 +284,7 @@
     },
     {
       "id": 8,
+      "doctorUserId": "yatri88",
       "doctorname": "Dr Singth Yatri",
       "eduction": "MBBS BHMD SDDL from Kota",
       "doctorfee": "900",
@@ -301,6 +314,7 @@
     },
     {
       "id": 9,
+      "doctorUserId": "rotra89",
       "doctorname": "Dr Bikaji Rotra",
       "eduction": "MBBS BHMD KDDL from Jaipur",
       "doctorfee": "750",
@@ -330,6 +344,7 @@
     },
     {
       "id": 10,
+      "doctorUserId": "jani90",
       "doctorname": "Dr Sahib Jani",
       "eduction": "MBBS KLKL SDDL from Patiala",
       "doctorfee": "800",
@@ -359,6 +374,7 @@
     },
     {
       "id": 11,
+      "doctorUserId": "hussain91",
       "doctorname": "Dr Hussain ",
       "eduction": "MBBS BHMD KLKL from Goa",
       "doctorfee": "900",
@@ -388,6 +404,7 @@
     },
     {
       "id": 12,
+      "doctorUserId": "juni92",
       "doctorname": "Dr Gulati Juni",
       "eduction": "MBBS BHMD SDDL from teala",
       "doctorfee": "900",
