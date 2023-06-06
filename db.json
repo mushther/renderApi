@@ -576,5 +576,116 @@
         4
       ]
     }
+  ],
+  {
+  "note": [
+    {
+      "title": "Brother Birthday ",
+      "discription": "This Day I celibrate All Day And buy Cake ",
+      "bgColor": "yellow",
+      "noteDate": "Mon May 08 2023 15:38:52 GMT+0530 (India Standard Time)",
+      "viewed": 12,
+      "id": 2
+    },
+    {
+      "id": 4,
+      "viewed": 5,
+      "title": "Pinapple Apple ",
+      "discription": "Apple is Good Frute for every human health ",
+      "wishList": "No",
+      "bgColor": "white",
+      "noteDate": "28-01-2023"
+    },
+    {
+      "id": 5,
+      "viewed": 1,
+      "title": "Red Color New",
+      "discription": "This Color is Favrate for me forever ",
+      "wishList": "No",
+      "bgColor": "orange",
+      "noteDate": "12-12-2023"
+    },
+    {
+      "id": 6,
+      "viewed": 6,
+      "title": "Save Water Topic",
+      "discription": "This topic is my next program topic",
+      "wishList": "No",
+      "bgColor": "skyblue",
+      "noteDate": "28-12-2023"
+    },
+    {
+      "title": "Mushther Hussain y",
+      "discription": "I'm new web developer 125",
+      "bgColor": "tomato",
+      "noteDate": "Fri Apr 28 2023 16:52:20 GMT+0530 (India Standard Time)",
+      "wishList": "No",
+      "viewed": 4,
+      "id": 9
+    },
+    {
+      "title": "RAECT",
+      "discription": "USE effaect",
+      "bgColor": "#be4ade",
+      "noteDate": "Fri May 19 2023 23:57:39 GMT+0530 (India Standard Time)",
+      "viewed": 2,
+      "id": 11
+    },
+    {
+      "title": "Evaluation Marks ",
+      "discription": "",
+      "bgColor": "yellow",
+      "noteDate": "Tue May 09 2023 11:05:26 GMT+0530 (India Standard Time)",
+      "viewed": 3,
+      "id": 12
+    },
+    {
+      "title": "partial accept",
+      "discription": "",
+      "bgColor": "tomato",
+      "noteDate": "Fri May 05 2023 19:14:01 GMT+0530 (India Standard Time)",
+      "viewed": 0,
+      "id": 13
+    },
+    {
+      "title": "database.vercel",
+      "discription": "",
+      "bgColor": "skyblue",
+      "noteDate": "Fri May 05 2023 21:09:59 GMT+0530 (India Standard Time)",
+      "viewed": 1,
+      "id": 14,
+      "wishList": "Yes"
+    },
+    {
+      "title": "15 of Array",
+      "discription": "",
+      "bgColor": "orange",
+      "noteDate": "Fri May 05 2023 19:14:01 GMT+0530 (India Standard Time)",
+      "viewed": 2,
+      "id": 15,
+      "wishList": "Yes"
+    },
+    {
+      "title": "RAECT",
+      "discription": "DIL JAN",
+      "bgColor": "#61f572",
+      "noteDate": "Fri May 19 2023 23:56:39 GMT+0530 (India Standard Time)",
+      "viewed": 5,
+      "id": 17
+    },
+    {
+      "title": "partial accept",
+      "discription": "addNoteColor",
+      "bgColor": "#cec936",
+      "noteDate": "Sat May 20 2023 00:02:17 GMT+0530 (India Standard Time)",
+      "viewed": 1,
+      "id": 18
+    }
+  ],
+  "themeColor": [
+    {
+      "bgThemeColor": "lightgreen",
+      "id": 1
+    }
   ]
 }
